@@ -52,4 +52,8 @@ ___
 ## Taiko
 ![taiko_1](https://github.com/web3cdnservices/web3cdnservices/assets/115787312/a7a3706a-fe40-416d-b14f-5f88e0c7b507)
 
+___
+## Io.net
+![ionet_1](https://github.com/web3cdnservices/web3cdnservices/assets/115787312/4b43c2d8-7dd9-4f75-875f-c35b53f9d26a)
+
 
